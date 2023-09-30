@@ -44,7 +44,7 @@
 
 ```py
 
-print('Hello Wrot')
+print('Hello World')
 
 ```
 
